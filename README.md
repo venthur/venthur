@@ -1,1 +1,1 @@
-I'm Bastian Venthur. In my free time I'm a [Debian](https://debian.org) Developer and work on various Free Software Projects. I mostly code in Python. Professionally, I'm DTO at [Flix](https://flix.com). You can follow me on <a rel="me" href="https://mastodon.social/@venthur">Mastodon</a>.
+I'm Bastian Venthur, a software developer with a passion for free and open source software. In my free time, I contribute to the [Debian](https://debian.org) project as a Debian Developer and work on various Free Software Projects. Professionally, I'm DTO at [Flix](https://flix.com).
